@@ -1,0 +1,39 @@
+[
+  {
+    "id": "PKP-2026-101",
+    "customerName": "Gaurav Dave",
+    "phone": "+91 98980 44123",
+    "email": "gaurav.dave@gmail.com",
+    "pickupAddress": "B-402, Radhe Residency, Near Satyamev Arcade, Chandkheda",
+    "pickupCity": "Ahmedabad",
+    "pickupPincode": "382424",
+    "destinationCountry": "United States (USA)",
+    "serviceType": "Food & Snacks Express",
+    "packageCategory": "Khakhra, Sweets, and Spices (15 kg box)",
+    "estimatedWeightKg": 15,
+    "pickupDate": "2026-10-25",
+    "pickupTimeSlot": "11:00 AM - 01:00 PM",
+    "status": "Driver Assigned",
+    "assignedDriver": "Ramesh Bhai (Van GJ-01-XX-9477)",
+    "createdAt": "2026-10-25 09:15 AM",
+    "specialInstructions": "Please bring 5-ply export carton and vacuum sealing machine if possible."
+  },
+  {
+    "id": "PKP-2026-102",
+    "customerName": "Anjali Trivedi",
+    "phone": "+91 97240 66890",
+    "email": "anjali.t@yahoo.co.in",
+    "pickupAddress": "401, Shivalik Highstreet, Keshavbaug, Vastrapur",
+    "pickupCity": "Ahmedabad",
+    "pickupPincode": "380015",
+    "destinationCountry": "Australia",
+    "serviceType": "Student Document",
+    "packageCategory": "University Application Portfolio",
+    "estimatedWeightKg": 1,
+    "pickupDate": "2026-10-25",
+    "pickupTimeSlot": "02:00 PM - 04:00 PM",
+    "status": "Pending",
+    "createdAt": "2026-10-25 10:05 AM",
+    "specialInstructions": "Urgent shipment for University of Melbourne deadline."
+  }
+]

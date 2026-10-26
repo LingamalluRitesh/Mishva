@@ -1,0 +1,20 @@
+[
+  {
+    "id": "CUST-001",
+    "name": "Bhavin Patel",
+    "email": "bhavin.patel@gmail.com",
+    "phone": "+91 98250 11422",
+    "address": "Satellite Road",
+    "city": "Ahmedabad",
+    "pincode": "380015"
+  },
+  {
+    "id": "CUST-002",
+    "name": "Dr. Rajesh Shah",
+    "email": "rajesh.shah@gmail.com",
+    "phone": "+91 94260 88219",
+    "address": "Sector 7",
+    "city": "Gandhinagar",
+    "pincode": "382007"
+  }
+]

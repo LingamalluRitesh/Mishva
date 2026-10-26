@@ -1,0 +1,195 @@
+{
+  "company": {
+    "name": "Mishva International Courier Service",
+    "tagline": "Worldwide Express Parcel & Cargo Logistics",
+    "phone": "+91 7623909477",
+    "phoneRaw": "917623909477",
+    "email": "mishvainternationalcourier@gmail.com",
+    "address": "FF, Satyamev Arcade, Nr Satyamev Hospital, Chandkheda, Ahmedabad, Gujarat - 382424",
+    "whatsappNumber": "917623909477",
+    "workingHours": "Monday - Saturday: 9:30 AM - 8:30 PM | Sunday: 10:00 AM - 4:00 PM",
+    "noticeBarText": "✈️ International Express Delivery across 220+ Countries | Special NRI Food & Medicine Courier Services | 📞 Helpline: +91 7623909477",
+    "noticeBarEnabled": true
+  },
+  "hero": {
+    "badgeText": "Ahmedabad Hub • Daily Direct Flight Cargo Departures",
+    "headingMain": "Fastest Global Delivery from Gujarat to",
+    "headingHighlight": "220+ Countries",
+    "subheading": "Door-to-door express international courier specializing in NRI homemade food & snacks packets, urgent prescription medicines, university admissions documents, and commercial air cargo with real-time GPS tracking.",
+    "stat1": "220+ Countries",
+    "stat2": "50,000+ Delivered",
+    "stat3": "99.8% On-Time Arrival"
+  },
+  "rates": [
+    {
+      "countryCode": "US",
+      "countryName": "United States (USA)",
+      "region": "North America",
+      "flag": "🇺🇸",
+      "baseRateFirst500g": 1650,
+      "perAdditional500g": 450,
+      "deliveryDaysExpress": "3-5 Business Days",
+      "deliveryDaysEconomy": "7-10 Business Days",
+      "foodCourierAllowed": true,
+      "medicineAllowed": true
+    },
+    {
+      "countryCode": "GB",
+      "countryName": "United Kingdom (UK)",
+      "region": "Europe",
+      "flag": "🇬🇧",
+      "baseRateFirst500g": 1450,
+      "perAdditional500g": 380,
+      "deliveryDaysExpress": "2-4 Business Days",
+      "deliveryDaysEconomy": "6-8 Business Days",
+      "foodCourierAllowed": true,
+      "medicineAllowed": true
+    },
+    {
+      "countryCode": "CA",
+      "countryName": "Canada",
+      "region": "North America",
+      "flag": "🇨🇦",
+      "baseRateFirst500g": 1750,
+      "perAdditional500g": 480,
+      "deliveryDaysExpress": "4-6 Business Days",
+      "deliveryDaysEconomy": "8-12 Business Days",
+      "foodCourierAllowed": true,
+      "medicineAllowed": true
+    },
+    {
+      "countryCode": "AE",
+      "countryName": "United Arab Emirates (Dubai / UAE)",
+      "region": "Middle East",
+      "flag": "🇦🇪",
+      "baseRateFirst500g": 950,
+      "perAdditional500g": 260,
+      "deliveryDaysExpress": "1-3 Business Days",
+      "deliveryDaysEconomy": "4-6 Business Days",
+      "foodCourierAllowed": true,
+      "medicineAllowed": true
+    },
+    {
+      "countryCode": "AU",
+      "countryName": "Australia",
+      "region": "Oceania",
+      "flag": "🇦🇺",
+      "baseRateFirst500g": 1850,
+      "perAdditional500g": 520,
+      "deliveryDaysExpress": "4-7 Business Days",
+      "deliveryDaysEconomy": "9-14 Business Days",
+      "foodCourierAllowed": true,
+      "medicineAllowed": true
+    },
+    {
+      "countryCode": "DE",
+      "countryName": "Germany",
+      "region": "Europe",
+      "flag": "🇩🇪",
+      "baseRateFirst500g": 1550,
+      "perAdditional500g": 420,
+      "deliveryDaysExpress": "3-5 Business Days",
+      "deliveryDaysEconomy": "7-9 Business Days",
+      "foodCourierAllowed": true,
+      "medicineAllowed": true
+    },
+    {
+      "countryCode": "SG",
+      "countryName": "Singapore",
+      "region": "Asia Pacific",
+      "flag": "🇸🇬",
+      "baseRateFirst500g": 1150,
+      "perAdditional500g": 310,
+      "deliveryDaysExpress": "2-4 Business Days",
+      "deliveryDaysEconomy": "5-7 Business Days",
+      "foodCourierAllowed": true,
+      "medicineAllowed": false
+    },
+    {
+      "countryCode": "NZ",
+      "countryName": "New Zealand",
+      "region": "Oceania",
+      "flag": "🇳🇿",
+      "baseRateFirst500g": 1950,
+      "perAdditional500g": 560,
+      "deliveryDaysExpress": "5-8 Business Days",
+      "deliveryDaysEconomy": "10-14 Business Days",
+      "foodCourierAllowed": true,
+      "medicineAllowed": true
+    }
+  ],
+  "services": [
+    {
+      "id": "food",
+      "title": "NRI Homemade Food & Snacks Courier",
+      "badge": "Most Popular in Gujarat",
+      "description": "Specialized international delivery for homemade Gujarati snacks, Khakhra, Fafda, Sweets, Pickles, Thepla, and ground spices with commercial vacuum sealing.",
+      "features": [
+        "Commercial multi-layer vacuum heat seal packing",
+        "US FDA & UK customs compliant food clearances",
+        "Special rates for 10kg, 15kg & 20kg festive family boxes",
+        "Delivery to USA, UK, Canada, Australia, NZ, UAE"
+      ]
+    },
+    {
+      "id": "express",
+      "title": "Worldwide Express Air Parcel",
+      "badge": "2-4 Day Delivery",
+      "description": "Lightning-fast door-to-door international express courier connecting Ahmedabad to over 220+ countries with Tier-1 airline space guarantees.",
+      "features": [
+        "Guaranteed next-flight departure scheduling",
+        "Real-time flight checkpoint GPS tracking",
+        "Complete doorstep delivery with signature proof",
+        "Partnership with DHL, FedEx, and UPS networks"
+      ]
+    },
+    {
+      "id": "medicine",
+      "title": "Prescription Medicine Express",
+      "badge": "Doctor RX Support",
+      "description": "Safe and certified international shipping of vital medicines, Ayurvedic formulations, and chronic healthcare supplies with complete customs clearance assistance.",
+      "features": [
+        "Assistance with doctor prescription verification",
+        "Original pharmacy tax invoice certification",
+        "Temperature-stable protective shockproof packaging",
+        "Express clearance through international health customs"
+      ]
+    },
+    {
+      "id": "student",
+      "title": "University & Student Express",
+      "badge": "Special Student Rates",
+      "description": "Priority courier services for international students sending academic transcripts, WES evaluations, I-20 documents, and excess study luggage.",
+      "features": [
+        "Flat student discount rates for USA/UK/Canada",
+        "Tamper-proof waterproof heavy security envelopes",
+        "Special student luggage baggage allowance (up to 40kg)",
+        "Delivery directly to University Admissions offices"
+      ]
+    },
+    {
+      "id": "cargo",
+      "title": "Commercial Air Cargo & B2B Samples",
+      "badge": "Business Export",
+      "description": "Comprehensive commercial air freight for Gujarat exporters, textile merchants, brassware manufacturers, and chemical testing samples.",
+      "features": [
+        "Commercial Invoice & Packing List generation",
+        "IEC Code and GST export documentation aid",
+        "Palletized cargo and heavy machinery parts transit",
+        "Air Waybill (AWB) generation with priority customs gate"
+      ]
+    },
+    {
+      "id": "excess",
+      "title": "Excess Baggage & Relocation Cargo",
+      "badge": "Heavy Cargo Saver",
+      "description": "Economical excess baggage and household relocation services for students, families, and professionals moving overseas without airline excess fees.",
+      "features": [
+        "Saves up to 65% compared to airline excess baggage charges",
+        "Free door-to-door collection from your residence",
+        "Heavy-duty 7-ply cardboard cartons provided free",
+        "Air cargo and ocean container options"
+      ]
+    }
+  ]
+}
